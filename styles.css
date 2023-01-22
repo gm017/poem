@@ -1,0 +1,49 @@
+.first-excerpt {
+    position: relative;
+    text-align: right;
+    right: 50px;
+    font-size: 20px;
+}
+
+.bread {
+    position: relative;
+    top: 7px;
+    right: 140px;
+}
+
+.body {
+    position: relative;
+    right: 40px;
+}
+
+.measurement {
+    position: relative;
+    top: 11px;
+    right: 40px;
+}
+
+.crane {
+    position: relative;
+    top: 4px;
+    right: 193px;
+}
+
+.an {
+    position: relative;
+    top: 3px;
+}
+
+.neck {
+    position: relative;
+    right: 150px
+}
+
+.n {
+    position: relative;
+    bottom: 6px;
+}
+
+.forth {
+    position: relative;
+    right: 100px;
+}
